@@ -1,0 +1,9 @@
+{
+  "name": "New VIZU",
+  "description": "Proximity-based social discovery app. Experience the Flow, catch the Zaps, stay for the Hush, and discover new Personas using AR and GPS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
